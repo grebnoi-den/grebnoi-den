@@ -127,7 +127,7 @@ h1,h2,h3,h4,h5,h6{
     height: 1675px;
 
     margin: 0 auto;
-    background:   url("/img/background/DesktopHEADER.png") no-repeat;
+    background:   url("img/background/DesktopHEADER.png") no-repeat;
     background-position: center;
 
     background-size:  cover;
@@ -814,7 +814,7 @@ letter-spacing: 0.2px;
 }
 
 .gallery__img11{
-    background: url(/img/gallery/Rectangle\ 1.jpg) center;
+    background: url(img/gallery/Rectangle\ 1.jpg) center;
     background-size: 100%;
     width: 225px;
     height: 285px;
@@ -823,7 +823,7 @@ letter-spacing: 0.2px;
 }
 
 .gallery__img22{
-    background: url(/img/gallery/Rectangle\ 1.png) center;
+    background: url(img/gallery/Rectangle\ 1.png) center;
     background-size: 100%;
     width: 225px;
     height: 285px;
@@ -832,7 +832,7 @@ letter-spacing: 0.2px;
 }
 
 .gallery__img33{
-    background: url(/img/gallery/Rectangle3.png) center;
+    background: url(img/gallery/Rectangle3.png) center;
     background-size: 100%;
     width: 225px;
     height: 285px;
@@ -841,7 +841,7 @@ letter-spacing: 0.2px;
 }
 
 .gallery__img44{
-    background: url(/img/gallery/Rectangle4.png) center;
+    background: url(img/gallery/Rectangle4.png) center;
     background-size: 100%;
     width: 225px;
     height: 285px;
@@ -1191,7 +1191,7 @@ letter-spacing: 0.2px;
 }
 
 .gallery__img22{
-    background: url(/img/gallery/media/Rectangle\ 1.png) center no-repeat;
+    background: url(img/gallery/media/Rectangle\ 1.png) center no-repeat;
     background-size: 100%;
     width: 280px;
     height: 300px;
